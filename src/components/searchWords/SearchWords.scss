@@ -1,0 +1,21 @@
+form{
+    input{
+        width:800px;
+        margin-top:20px;
+        height: 48px;
+        border-radius: 15px;
+        background-color: rgb(235, 234, 234);
+        padding:0px 10px 0px 20px;
+        outline: none;
+        font-size: 18px;
+        border:none;
+        font-family: 'Roboto', sans-serif;
+        
+        position: absolute;
+    }
+}
+.search-img{
+    position: relative;
+    top:20px;
+    left:755px;
+}

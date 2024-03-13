@@ -1,0 +1,35 @@
+.words{
+    font-size: 44px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 600;
+    // color:rgb(48, 47, 47);
+}
+.phonetic{
+    font-size: 26px;
+    color:rgb(177, 7, 177);
+    text-decoration: none;
+}
+
+.words-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.words-audio{
+    display: none;
+}
+.active{
+    display: block;
+}
+
+.audio-btn{
+    padding:35px 30px;
+    border-radius:100%;
+    margin-top:10px;
+    border: none;
+    color:white;
+    opacity: 1;
+    margin-top:20px;
+    background-color: rgb(223, 159, 243);
+}

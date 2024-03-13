@@ -1,0 +1,23 @@
+.source-link{
+ padding-top:15px;
+ font-size: 18px;
+ display: none;
+ a{
+    margin-left:15px;
+    // color:black;
+}
+}
+.active{
+    display: block;
+}
+
+.footer-line{
+        width:900px;
+        height: 0.5px;
+        background-color: rgb(223, 223, 223);
+        margin-top:27px;
+        display: none;
+}
+.active{
+    display: block;
+}
